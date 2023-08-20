@@ -1,17 +1,16 @@
 'use client'
 
-import React from 'react'
-import NavBar from '../../../../sections/appbar/appbar'
-
-import Footer from '../../../../sections/footer/footer'
-import '../../../../../styles/phdadmission/phdadmission.css'
-import { type } from 'os'
+import React from 'react';
+import NavBar from '../../../../sections/appbar/appbar';
+import Footer from '../../../../sections/footer/footer';
+import '../../../../../styles/phdadmission/phdadmission.css';
+import { type } from 'os';
 import data from './data';
 import PictureAsPdfIcon from '@mui/icons-material/PictureAsPdf';
 import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 import EmailIcon from '@mui/icons-material/Email';
-import { WidthFull } from '@mui/icons-material'
-import { padding } from '@mui/system'
+import { WidthFull } from '@mui/icons-material';
+import { padding } from '@mui/system';
 
 const datapdf = [
   {

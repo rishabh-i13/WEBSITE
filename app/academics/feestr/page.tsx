@@ -41,7 +41,7 @@ const page = () => {
                             <div className='flexCon card' key={i.id}>
                                 <FileCopyIcon style={{ color: 'black', fontSize: '30px' }} />
                                 {i.name}
-                                <a href={i.link} className='card-btn' target='_blank'>PDF Soon</a>
+                                <a href={i.link} className='card-btn' target='_blank'>PDF</a>
                             </div>
                         );
                     })}
