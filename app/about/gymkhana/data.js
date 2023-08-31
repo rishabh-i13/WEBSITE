@@ -447,6 +447,10 @@ const GymkhanaData = [
                 index: 2,
                 url: "/gymkhana/Groovz6.webp",
               },
+              {
+                index: 3,
+                url: "/gymkhana/Groovz7.webp",
+              },
             ],
             description:
               "It was one of the all time biggest event held in College. Various cultural clubs came forward to make the event successful and Groovz was amoung them. Students performed various types of dances like classic dance, couple dance and other various group dances.",
