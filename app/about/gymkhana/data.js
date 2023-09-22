@@ -410,10 +410,14 @@ const GymkhanaData = [
         mainCarousel: [
           {
             index: 0,
-            url: "/gymkhana/Groovz1.webp",
+            url: "/gymkhana/Groovz0.webp",
           },
           {
             index: 1,
+            url: "/gymkhana/Groovz1.webp",
+          },
+          {
+            index: 2,
             url: "/gymkhana/Groovz2.webp",
           },
         ],
@@ -442,6 +446,10 @@ const GymkhanaData = [
               {
                 index: 2,
                 url: "/gymkhana/Groovz6.webp",
+              },
+              {
+                index: 3,
+                url: "/gymkhana/Groovz7.webp",
               },
             ],
             description:
